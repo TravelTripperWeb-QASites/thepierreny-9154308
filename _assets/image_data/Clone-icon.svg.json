@@ -5,5 +5,11 @@
   "format": null,
   "url": "https://res.cloudinary.com/traveltripperweb/raw/upload/v1549538910/crpidcjo3z5o4lqbyoab.svg",
   "resource_type": "raw",
-  "size": 872
+  "size": 872,
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_32_136/media/2019-02-07-062924/Clone-icon.svg",
+  "s3_url_large": null,
+  "s3_url_medium": null,
+  "s3_url_small": null,
+  "s3_url_xsmall": null,
+  "s3_url_thumb": null
 }
