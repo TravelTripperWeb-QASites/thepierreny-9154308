@@ -1,0 +1,27 @@
+---
+published_localized:
+  en: true
+layout: default
+title: Offers Copy
+meta_description: 
+permalink: "/offers-copy-958/"
+meta_tags:
+  robots: 
+
+---
+
+{% comment %}
+
+  Name:
+
+    Offers Listing Page
+
+  Description:
+
+    Display offer list from RezTrip.
+
+{% endcomment %}
+
+{% for offer in site.data._models.offers %}
+  {% include components/offer %}
+{% endfor %}
